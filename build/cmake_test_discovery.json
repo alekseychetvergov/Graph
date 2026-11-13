@@ -1,0 +1,54 @@
+{
+  "tests": 6,
+  "name": "AllTests",
+  "testsuites": [
+    {
+      "name": "MatrixTests",
+      "tests": 1,
+      "testsuite": [
+        {
+          "name": "ResizeCloneAndBounds",
+          "file": "C:\\WORK\\C++\\Projects\\Graph\\tests\\test_graph.cpp",
+          "line": 9
+        }
+      ]
+    },
+    {
+      "name": "GraphTests",
+      "tests": 2,
+      "testsuite": [
+        {
+          "name": "ListGraphAndConversionsPreserveEdges",
+          "file": "C:\\WORK\\C++\\Projects\\Graph\\tests\\test_graph.cpp",
+          "line": 28
+        },
+        {
+          "name": "MatrixGraphSupportsCustomVertexLabels",
+          "file": "C:\\WORK\\C++\\Projects\\Graph\\tests\\test_graph.cpp",
+          "line": 57
+        }
+      ]
+    },
+    {
+      "name": "GraphAlgorithms",
+      "tests": 3,
+      "testsuite": [
+        {
+          "name": "TraverseListGraphInBreadthAndDepthFirstOrder",
+          "file": "C:\\WORK\\C++\\Projects\\Graph\\tests\\test_graph.cpp",
+          "line": 72
+        },
+        {
+          "name": "DijkstraFindsWeightedShortestPathsAndPreservesWeights",
+          "file": "C:\\WORK\\C++\\Projects\\Graph\\tests\\test_graph.cpp",
+          "line": 92
+        },
+        {
+          "name": "RejectNegativeWeights",
+          "file": "C:\\WORK\\C++\\Projects\\Graph\\tests\\test_graph.cpp",
+          "line": 124
+        }
+      ]
+    }
+  ]
+}

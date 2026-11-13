@@ -1,0 +1,8 @@
+GraphTests 1 0.173117
+GraphTests.ListGraphAndConversionsPreserveEdges 5 0.0248986
+GraphTests.MatrixGraphSupportsCustomVertexLabels 5 0.0194393
+MatrixTests.ResizeCloneAndBounds 6 0.0293949
+GraphAlgorithms.DijkstraFindsWeightedShortestPathsAndPreservesWeights 2 0.0640444
+GraphAlgorithms.RejectNegativeWeights 2 0.0552839
+GraphAlgorithms.TraverseListGraphInBreadthAndDepthFirstOrder 2 0.0371724
+---
