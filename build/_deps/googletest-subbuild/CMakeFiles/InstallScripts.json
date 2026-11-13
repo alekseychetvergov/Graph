@@ -1,7 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"C:/WORK/C++/Projects/Graph/build/_deps/googletest-subbuild/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
