@@ -1,5 +1,0 @@
-if(EXISTS "C:/WORK/C++/Projects/Graph/build/GraphTests[1]_tests.cmake")
-  include("C:/WORK/C++/Projects/Graph/build/GraphTests[1]_tests.cmake")
-else()
-  add_test(GraphTests_NOT_BUILT GraphTests_NOT_BUILT)
-endif()
