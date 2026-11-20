@@ -1,3 +1,0 @@
-/home/aleksey/VSCodeProject/Graph/Graph/out/build/linux-gcc/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
-/home/aleksey/VSCodeProject/Graph/Graph/out/build/linux-gcc/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
-/home/aleksey/VSCodeProject/Graph/Graph/out/build/linux-gcc/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir
