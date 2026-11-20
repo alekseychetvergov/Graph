@@ -1,5 +1,6 @@
-﻿Debug/
-out/
-build/
-Release/
-.settings/
+/build/
+/cmake-build-*/
+/.vs/
+CMakeUserPresets.json
+*.user
+*.suo

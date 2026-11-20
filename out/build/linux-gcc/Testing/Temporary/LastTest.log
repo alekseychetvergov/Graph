@@ -1,0 +1,165 @@
+Start testing: Nov 20 11:13 MSK
+----------------------------------------------------------
+1/6 Testing: MatrixTests.ResizeCloneAndBounds
+1/6 Test: MatrixTests.ResizeCloneAndBounds
+Command: "/home/aleksey/VSCodeProject/Graph/Graph/out/build/linux-gcc/GraphTests" "--gtest_filter=MatrixTests.ResizeCloneAndBounds" "--gtest_also_run_disabled_tests"
+Directory: /home/aleksey/VSCodeProject/Graph/Graph/out/build/linux-gcc
+"MatrixTests.ResizeCloneAndBounds" start time: Nov 20 11:13 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/aleksey/VSCodeProject/Graph/Graph/out/build/linux-gcc/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = MatrixTests.ResizeCloneAndBounds
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MatrixTests
+[ RUN      ] MatrixTests.ResizeCloneAndBounds
+[       OK ] MatrixTests.ResizeCloneAndBounds (0 ms)
+[----------] 1 test from MatrixTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"MatrixTests.ResizeCloneAndBounds" end time: Nov 20 11:13 MSK
+"MatrixTests.ResizeCloneAndBounds" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/6 Testing: GraphTests.ListGraphAndConversionsPreserveEdges
+2/6 Test: GraphTests.ListGraphAndConversionsPreserveEdges
+Command: "/home/aleksey/VSCodeProject/Graph/Graph/out/build/linux-gcc/GraphTests" "--gtest_filter=GraphTests.ListGraphAndConversionsPreserveEdges" "--gtest_also_run_disabled_tests"
+Directory: /home/aleksey/VSCodeProject/Graph/Graph/out/build/linux-gcc
+"GraphTests.ListGraphAndConversionsPreserveEdges" start time: Nov 20 11:13 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/aleksey/VSCodeProject/Graph/Graph/out/build/linux-gcc/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = GraphTests.ListGraphAndConversionsPreserveEdges
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from GraphTests
+[ RUN      ] GraphTests.ListGraphAndConversionsPreserveEdges
+[       OK ] GraphTests.ListGraphAndConversionsPreserveEdges (0 ms)
+[----------] 1 test from GraphTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"GraphTests.ListGraphAndConversionsPreserveEdges" end time: Nov 20 11:13 MSK
+"GraphTests.ListGraphAndConversionsPreserveEdges" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/6 Testing: GraphTests.MatrixGraphSupportsCustomVertexLabels
+3/6 Test: GraphTests.MatrixGraphSupportsCustomVertexLabels
+Command: "/home/aleksey/VSCodeProject/Graph/Graph/out/build/linux-gcc/GraphTests" "--gtest_filter=GraphTests.MatrixGraphSupportsCustomVertexLabels" "--gtest_also_run_disabled_tests"
+Directory: /home/aleksey/VSCodeProject/Graph/Graph/out/build/linux-gcc
+"GraphTests.MatrixGraphSupportsCustomVertexLabels" start time: Nov 20 11:13 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/aleksey/VSCodeProject/Graph/Graph/out/build/linux-gcc/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = GraphTests.MatrixGraphSupportsCustomVertexLabels
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from GraphTests
+[ RUN      ] GraphTests.MatrixGraphSupportsCustomVertexLabels
+[       OK ] GraphTests.MatrixGraphSupportsCustomVertexLabels (0 ms)
+[----------] 1 test from GraphTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"GraphTests.MatrixGraphSupportsCustomVertexLabels" end time: Nov 20 11:13 MSK
+"GraphTests.MatrixGraphSupportsCustomVertexLabels" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/6 Testing: GraphAlgorithms.TraverseListGraphInBreadthAndDepthFirstOrder
+4/6 Test: GraphAlgorithms.TraverseListGraphInBreadthAndDepthFirstOrder
+Command: "/home/aleksey/VSCodeProject/Graph/Graph/out/build/linux-gcc/GraphTests" "--gtest_filter=GraphAlgorithms.TraverseListGraphInBreadthAndDepthFirstOrder" "--gtest_also_run_disabled_tests"
+Directory: /home/aleksey/VSCodeProject/Graph/Graph/out/build/linux-gcc
+"GraphAlgorithms.TraverseListGraphInBreadthAndDepthFirstOrder" start time: Nov 20 11:13 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/aleksey/VSCodeProject/Graph/Graph/out/build/linux-gcc/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = GraphAlgorithms.TraverseListGraphInBreadthAndDepthFirstOrder
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from GraphAlgorithms
+[ RUN      ] GraphAlgorithms.TraverseListGraphInBreadthAndDepthFirstOrder
+[       OK ] GraphAlgorithms.TraverseListGraphInBreadthAndDepthFirstOrder (0 ms)
+[----------] 1 test from GraphAlgorithms (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"GraphAlgorithms.TraverseListGraphInBreadthAndDepthFirstOrder" end time: Nov 20 11:13 MSK
+"GraphAlgorithms.TraverseListGraphInBreadthAndDepthFirstOrder" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/6 Testing: GraphAlgorithms.DijkstraFindsWeightedShortestPathsAndPreservesWeights
+5/6 Test: GraphAlgorithms.DijkstraFindsWeightedShortestPathsAndPreservesWeights
+Command: "/home/aleksey/VSCodeProject/Graph/Graph/out/build/linux-gcc/GraphTests" "--gtest_filter=GraphAlgorithms.DijkstraFindsWeightedShortestPathsAndPreservesWeights" "--gtest_also_run_disabled_tests"
+Directory: /home/aleksey/VSCodeProject/Graph/Graph/out/build/linux-gcc
+"GraphAlgorithms.DijkstraFindsWeightedShortestPathsAndPreservesWeights" start time: Nov 20 11:13 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/aleksey/VSCodeProject/Graph/Graph/out/build/linux-gcc/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = GraphAlgorithms.DijkstraFindsWeightedShortestPathsAndPreservesWeights
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from GraphAlgorithms
+[ RUN      ] GraphAlgorithms.DijkstraFindsWeightedShortestPathsAndPreservesWeights
+[       OK ] GraphAlgorithms.DijkstraFindsWeightedShortestPathsAndPreservesWeights (0 ms)
+[----------] 1 test from GraphAlgorithms (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"GraphAlgorithms.DijkstraFindsWeightedShortestPathsAndPreservesWeights" end time: Nov 20 11:13 MSK
+"GraphAlgorithms.DijkstraFindsWeightedShortestPathsAndPreservesWeights" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/6 Testing: GraphAlgorithms.RejectNegativeWeights
+6/6 Test: GraphAlgorithms.RejectNegativeWeights
+Command: "/home/aleksey/VSCodeProject/Graph/Graph/out/build/linux-gcc/GraphTests" "--gtest_filter=GraphAlgorithms.RejectNegativeWeights" "--gtest_also_run_disabled_tests"
+Directory: /home/aleksey/VSCodeProject/Graph/Graph/out/build/linux-gcc
+"GraphAlgorithms.RejectNegativeWeights" start time: Nov 20 11:13 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/aleksey/VSCodeProject/Graph/Graph/out/build/linux-gcc/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = GraphAlgorithms.RejectNegativeWeights
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from GraphAlgorithms
+[ RUN      ] GraphAlgorithms.RejectNegativeWeights
+[       OK ] GraphAlgorithms.RejectNegativeWeights (0 ms)
+[----------] 1 test from GraphAlgorithms (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"GraphAlgorithms.RejectNegativeWeights" end time: Nov 20 11:13 MSK
+"GraphAlgorithms.RejectNegativeWeights" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 20 11:13 MSK

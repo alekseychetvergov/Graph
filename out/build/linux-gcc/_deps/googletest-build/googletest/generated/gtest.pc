@@ -1,0 +1,9 @@
+libdir=/home/aleksey/VSCodeProject/Graph/Graph/out/install/linux-gcc/lib
+includedir=/home/aleksey/VSCodeProject/Graph/Graph/out/install/linux-gcc/include
+
+Name: gtest
+Description: GoogleTest (without main() function)
+Version: 1.14.0
+URL: https://github.com/google/googletest
+Libs: -L${libdir} -lgtest 
+Cflags: -I${includedir} -DGTEST_HAS_PTHREAD=1

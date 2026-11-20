@@ -1,0 +1,5 @@
+if(EXISTS "/home/aleksey/VSCodeProject/Graph/Graph/out/build/linux-gcc/GraphTests[1]_tests.cmake")
+  include("/home/aleksey/VSCodeProject/Graph/Graph/out/build/linux-gcc/GraphTests[1]_tests.cmake")
+else()
+  add_test(GraphTests_NOT_BUILT GraphTests_NOT_BUILT)
+endif()

@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/GraphTests.dir/tests/test_graph.cpp.o -o GraphTests  lib/libgtest_main.a lib/libgtest.a 
